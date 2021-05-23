@@ -1,4 +1,4 @@
-# tower-of-hanoi-DFS-python
+# tower-of-hanoi-water-jug-problem-solutions
 
 Assignment 01
 
